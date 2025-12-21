@@ -13,5 +13,3 @@ Data storage using Spring Data JPA
 MySQL integration
 
 Clean, simple structure for beginners
-
-test-hri222
