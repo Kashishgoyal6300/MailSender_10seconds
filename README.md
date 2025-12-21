@@ -15,5 +15,3 @@ MySQL integration
 Clean, simple structure for beginners
 
 test-hri
-
-testing github with commands 
